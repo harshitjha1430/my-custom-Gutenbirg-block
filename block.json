@@ -1,0 +1,12 @@
+{
+    "apiVersion": 2,
+    "name": "custom/my-block",
+    "title": "My Custom Block",
+    "category": "widgets",
+    "icon": "smiley",
+    "description": "A simple custom Gutenberg block.",
+    "supports": {
+        "html": false
+    },
+    "editorScript": "file:./build/index.js"
+}

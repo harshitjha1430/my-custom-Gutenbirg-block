@@ -1,0 +1,6 @@
+{
+  "name": "my-custom-block",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL-2.0-or-later"
+}
